@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot (60)](https://github.com/RJ17069/Social-Media-Webpage-React-/assets/104430062/9edf9b20-6d46-4c9e-866f-7295f0d5b587)
+
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 

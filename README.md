@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Screenshot (60)](https://github.com/RJ17069/Social-Media-Webpage-React-/assets/104430062/9edf9b20-6d46-4c9e-866f-7295f0d5b587)
 
+![Screenshot (61)](https://github.com/RJ17069/Social-Media-Webpage-React-/assets/104430062/6f65aab9-b405-48f3-9099-69fcd6e7dc0b)
+
+![Screenshot (62)](https://github.com/RJ17069/Social-Media-Webpage-React-/assets/104430062/f43ee82a-1d48-44ff-b1af-b8c4714f7bf8)
+
 
 ## Available Scripts
 
